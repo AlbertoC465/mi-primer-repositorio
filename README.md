@@ -9,23 +9,23 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-(Respuesta)
+aprendi a usar mucho mas la plataforma y guarde versiones de el documento
  
 ### 😮 ¿Qué es GitHub?
-(Respuesta)
+(plataforma en la nube diseñada para desarrolladores que permite alojar, gestionar y colaborar en proyectos de software utilizando Git)
  
 ### 🎯 ¿Para qué me sirve?
-(Respuesta)
+(sirve para elaborar varios pryectos sin perder el contenido)
  
 ---
  
 ## ✍️ Mi progreso
 Aquí ya realicé varios cambios en GitHub.
  
----
+20%
  
 ## 👤 Sobre mí
-Nombre:
-Curso: 
+Nombre:Alberto Cabrera
+Curso: Diploma 1D
  
  
