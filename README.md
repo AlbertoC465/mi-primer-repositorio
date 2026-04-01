@@ -23,7 +23,7 @@ aprendi a usar mucho mas la plataforma y guarde versiones de el documento
 Aquí ya realicé varios cambios en GitHub.
  78
 
- 
-holaaaaa 
+1/4/2025
+8:57
  
  
