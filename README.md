@@ -21,11 +21,9 @@ aprendi a usar mucho mas la plataforma y guarde versiones de el documento
  
 ## ✍️ Mi progreso
 Aquí ya realicé varios cambios en GitHub.
+ 78
+
  
-20%
- 
-## 👤 Sobre mí
-Nombre:Alberto Cabrera
-Curso: Diploma 1D
+holaaaaa 
  
  
